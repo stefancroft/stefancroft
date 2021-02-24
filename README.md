@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Stefan. I have over 8 years industry experience working on all things web related. From building small to high profile WordPress websites, one page landing pages, custom starter WP theme, emails, dynamic digital display ads and many more. I work at <a href="https://www.feedagency.xyz" >Feedagency</a> as a Web developer.
+Hi, I'm Stefan. I have over 7 years industry experience working on all things web related. From building small to high profile WordPress websites, one page landing pages, emails, dynamic digital display ads and many more. I work at <a href="https://www.feedagency.xyz" >Feedagency</a> in the UK as a Web developer.
 
-- 🔭 I’m currently working on a Web application UI.
-- 🌱 I’m currently learning PHP
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Custom starter WP theme based on Bathe and also a Web application UI.
+- 🌱 I’m aiming to learn React very soon.
+- 👯 I’m looking to collaborate on nothing right now. 
 - 📫 Reach me on LinkedIn and Insta (search my name).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am not a fan of Olives!
 
-
-Tech I know well and use pretty much daily include: HTML, SASS, JS/jQuery, 
-
-My aims are to become a full stack developer and work on producing useful web tools
+Tech stack and tool I know well and use pretty much daily include: HTML, SASS, JS/jQuery, some php, Npm, Grunt.
