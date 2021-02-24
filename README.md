@@ -26,6 +26,7 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 
 <!-- Actual text -->
 
+
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
@@ -37,7 +38,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/heinz-martin/
-
 
 ![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<mac>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
