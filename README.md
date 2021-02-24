@@ -30,7 +30,7 @@ Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
 
 ![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=white)
 
-![](https://img.shields.io/badge/<OS>-<MAC>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<MAC>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<apple>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
