@@ -23,4 +23,4 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 - 📫 Reach me on LinkedIn and Insta (search my name).
 - ⚡ Fun fact: I am not a fan of Olives!
 
-Tech stack and tool I know well and use pretty much daily include: HTML, SASS, JS/jQuery, some php, Npm, Grunt.
+Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
