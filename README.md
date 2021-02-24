@@ -26,8 +26,8 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 
 Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
 
+[![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=radical)
 
 
-[![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
