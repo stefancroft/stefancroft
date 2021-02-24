@@ -44,22 +44,3 @@ You can find me on <a href="https://www.linkedin.com/in/stefancroft/">linkedIn</
 
 ![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=white)
 
-
-<span>
-  [![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
-
-  </span>
-  
-  <span>
-  [![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
-
-  </span>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-[![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
-
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=white)
-</a>
