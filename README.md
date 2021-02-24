@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Stefan. I have over 8 years industry experience working on all things web related. From building small to high profile WordPress websites, one page landing pages, custom starter WP theme, emails, dynamic digital display ads and many more. I work at <a href="https://www.feedagency.xyz" >Feedagency</a> as a Web developer.
+
+- 🔭 I’m currently working on a Web application UI.
+- 🌱 I’m currently learning PHP
+- 👯 I’m looking to collaborate on ...
+- 📫 Reach me on LinkedIn and Insta (search my name).
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Tech I know well and use pretty much daily include: HTML, SASS, JS/jQuery, 
+
+My aims are to become a full stack developer and work on producing useful web tools
