@@ -30,4 +30,4 @@ Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
 ![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=radical)
 
 
-[![Stefans's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/stefancroft/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
