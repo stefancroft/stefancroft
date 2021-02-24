@@ -44,3 +44,11 @@ You can find me on <a href="https://www.linkedin.com/in/stefancroft/">linkedIn</
 
 ![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=white)
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
