@@ -19,7 +19,7 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 
 - 🔭 I’m currently working on a Custom starter WP theme based on Bathe and also a Web application UI.
 - 🌱 I’m aiming to learn React very soon.
-- 👯 I’m looking to collaborate on nothing right now. 
+- 👯 I’m looking to collaborate on nothing at present...
 - 📫 Reach me on LinkedIn and Insta (search my name).
 - ⚡ Fun fact: I am not a fan of Olives!
 
