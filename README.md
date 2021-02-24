@@ -25,3 +25,6 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 - ⚡ Fun fact: I am not a fan of Olives!
 
 Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
