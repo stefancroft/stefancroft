@@ -41,7 +41,7 @@ You can find me on <a href="https://www.linkedin.com/in/stefancroft/">linkedIn</
 ![](https://img.shields.io/badge/Frameworks-Bathe-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft" />
 </a>
 
