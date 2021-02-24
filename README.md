@@ -28,6 +28,9 @@ Recent tech/tool stack include: HTML, SASS, JS/jQuery, some PHP, NPM, Grunt.
 
 [![stefancroft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stefancroft)](https://github.com/anuraghazra/github-readme-stats)
 
-![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=radical)
+![Stefans GitHub stats](https://github-readme-stats.vercel.app/api?username=stefancroft&show_icons=true&theme=white)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
