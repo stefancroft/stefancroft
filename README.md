@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stefan. I have over 7 years industry experience working on all things web related. From building small to high profile WordPress websites, one page landing pages, emails, dynamic digital display ads and many more. I work at <a href="https://www.feedagency.xyz" >Feedagency</a> in the UK as a Web developer.
+I'm Stefan. I have over 7 years industry experience working on all things web related. From building small to high profile WordPress websites, one page landing pages, emails, dynamic digital display ads and many more. I work at <a href="https://www.feedagency.xyz" >Feed</a> in the UK as a Web developer.
 
 - 🔭 I’m currently working on an email build and also a Web application UI.
 - 🌱 I’m aiming to learn React very soon.
