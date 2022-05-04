@@ -21,7 +21,9 @@ I'm Stefan. I have over 7 years industry experience working on all things web re
 The last 3 projects I have worked on & helped launch are:
 
 http://ennismore.com/
+<br>
 https://gleneagles.com/
+<br>
 https://thehoxton.com/
 
 - 🌱 I’m aiming to learn React very soon.
