@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stefan. I have over 9 years industry experience working on all things web related. From building small to high profile WordPress websites, landing pages, dynamic emails, dynamic digital display ads, automation tools, Figma plugins many more. I work at <a href="https://www.feedagency.xyz" >FEED/DEPT®</a> in the UK as a Web developer.
-
+I'm Stefan. I have over 11 years industry experience working on all things web related. From building small to high profile web solutions, landing pages, dynamic emails, dynamic digital display ads, automation tools, Figma plugins many more. I work at <a href="https://www.feedagency.xyz" >FEED/DEPT®</a> in the UK.
 The last 3 projects I have worked on & helped launch are:
 
 http://ennismore.com/
@@ -24,6 +23,8 @@ http://ennismore.com/
 https://gleneagles.com/
 <br>
 https://thehoxton.com/
+
+& many more
 
 - 🌱 I’m currently learning React JS - Look out for my next Commits on here.
 - 📫 Reach me on LinkedIn (link below).
